@@ -1,1 +1,1 @@
-# CodSoft_task3
+# Simple Calculator
